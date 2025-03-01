@@ -1,3 +1,9 @@
+## [Unreleased](https://github.com/ScoopInstaller/Scoop/compare/master...develop)
+
+### Bug Fixes
+
+- **bucket:** Remove the `.git` extension from bucket source URLs, if present, when listing buckets ([#6297](https://github.com/ScoopInstaller/Scoop/issues/6297))
+
 ## [v0.5.3](https://github.com/ScoopInstaller/Scoop/compare/v0.5.2...v0.5.3) - 2024-12-31
 
 ### Bug Fixes
